@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/20 15:56:22.000.311,=C:\Users\yacine\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2021/09/20 15:56:59.000.581,C:\Users\yacine\Documents\Embarcadero\Studio\Projets\Project2_client.dproj=C:\Users\yacine\Documents\Embarcadero\Studio\Projets\Project2.dproj</Transaction>
+    <Transaction>2021/09/20 15:57:29.000.045,C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Unit2.dfm=C:\Users\yacine\Documents\Embarcadero\Studio\Projets\Unit2.dfm</Transaction>
+    <Transaction>2021/09/20 15:57:29.000.045,C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Unit2.pas=C:\Users\yacine\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2021/09/20 15:57:30.000.247,C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Project2_client.dproj=C:\Users\yacine\Documents\Embarcadero\Studio\Projets\Project2_client.dproj</Transaction>
+    <Transaction>2021/09/20 15:59:05.000.865,C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Project2_client.dproj=C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Project2_client.dproj</Transaction>
+    <Transaction>2021/09/20 16:02:15.000.370,=C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Unit2.pas</Transaction>
+    <Transaction>2021/09/20 16:02:37.000.640,=C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Unit2.pas</Transaction>
+    <Transaction>2021/09/20 17:25:18.000.716,C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Unit2.pas=</Transaction>
+    <Transaction>2021/09/20 17:25:30.000.796,=C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Unit3.pas</Transaction>
+    <Transaction>2021/09/20 17:25:49.000.318,=C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Unit3.pas</Transaction>
+    <Transaction>2021/09/20 17:26:32.000.872,C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Unit3.dfm=C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Unit2.dfm</Transaction>
+    <Transaction>2021/09/20 17:26:32.000.872,C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Unit3.pas=C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Unit2.pas</Transaction>
+    <Transaction>2021/09/21 11:56:51.429,C:\Users\yacine\Desktop\newwww\client\Project2_client.dproj=C:\Users\yacine\Desktop\Chat Room Socket (Delphi)\Client\Project2_client.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
